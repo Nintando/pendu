@@ -5,7 +5,7 @@ export default function AppNavbar() {
   return (
     <Navbar bg="light" expand="lg">
       <Container>
-        <Navbar.Brand href="/">App Carnet de Note</Navbar.Brand>
+        <Navbar.Brand href="/">App Pendu</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">

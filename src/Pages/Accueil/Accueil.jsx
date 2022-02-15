@@ -14,7 +14,7 @@ export default function HomePage() {
               </Container>
             </div>
             <Col>
-              <Button className=" mb-2" as={Link} to="/pendu">
+              <Button className=" mb-2" size="lg" as={Link} to="/pendu">
                 Jouer
               </Button>
             </Col>
